@@ -1,0 +1,18 @@
+// Настройка Git
+        //В рабочей дерриктории:
+        //git init
+        //git config --local(global) user.name "Name"
+        //git config --local(global) user.email smoke7747@gmail.com
+        //git status Просмотр статуса
+        //git add -A Добавление файлов для индексации
+        //git commit Создание коммита (контрольной точки)
+        // git commit -a -m"Description"
+        //git log Просмотр коммитов 
+        
+        GITHUB - Зайди на сайт и посмотри. (Не сложно)
+        git push - загружаем данные в репозиторий
+        git pull - загружаем данные с репозитория
+        Для работы на другом пк нужно склонировать репозиторий с сайта
+        git remote add origin https://github.com/Smoke7747/1.git
+        git branch -M main
+        git push -u origin main
